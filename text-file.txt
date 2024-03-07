@@ -1,1 +1,3 @@
+Gosho worked in this file and edit this line 
 Pesho worked in this file and he is a very cool person.
+The merge conflict is resolved and both Gosho and Pesho worked here
